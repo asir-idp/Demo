@@ -16,11 +16,13 @@ Poner algo en *cursiva*.
 
 Una lista de frutas:
 
-* Pera
-* Manzana
-* Sandía
-* Melón
-* Plátano
+* Pera :pear:
+* Manzana :apple:
+* Sandía :watermelon:
+* Melón :melon:
+* Plátano :banana:
 
 ![Imagen de un gatito](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIrjwG47mVDi0mtUW5ilddpodBrn9Ke6-MA&usqp=CAU)
+
+![](imagenes/perritot.jpg)
 
